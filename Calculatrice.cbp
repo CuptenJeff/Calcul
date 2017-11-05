@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 <CodeBlocks_project_file>
 	<FileVersion major="1" minor="6" />
@@ -45,3 +46,6 @@
 		</Extensions>
 	</Project>
 </CodeBlocks_project_file>
+=======
+
+>>>>>>> 8146af79f7458f41f36d11b522c47b31c7f6b398
